@@ -19,8 +19,8 @@ Usage: Utilized in robotics and automation to identify and track objects, which 
 
 
 
-
-
+[
+](https://github.com/ReyoofAlsisi/HUSKYLENS-FUNCTIONS/blob/f9d70fd40f4475beed9da757d085a630d1af693f/IMG_7982.jpg)
 
 
 
